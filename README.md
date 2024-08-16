@@ -11,7 +11,7 @@
 9.	Quem são os usuários?
 10.	O que eles estão tentando realizar? 
 11.	Qual o pior que pode acontecer?
-12.	Desenhe uma arquitetura;
+12.	Desenhe uma arquitetura (Modelo Freeform - Versão inicial);
 13.	Faça uma descrição de cada um dos componentes que você desenhou;
 14.	Descreva requisitos que você (s) considera importante e por quê? (Mínimo 5)
 15.	Sobre o que o diagrama ajuda você a raciocinar/pensar?
